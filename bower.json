@@ -1,0 +1,9 @@
+{
+  "name": "dateRangeSlider",
+  "version": "0.0.0",
+  "authors": [
+    "bikram-mits <bikram@makeitsimple.info>"
+  ],
+  "main": "jqueryDateRange.min.js",
+  "license": "MIT"
+}
